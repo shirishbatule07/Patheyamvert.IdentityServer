@@ -1,0 +1,3 @@
+D:\PROJECTS\MADA\ERP\MADA.ERP.IdentityServer\IdentityServer\obj\Debug\netcoreapp3.1\IdentityServer.MvcApplicationPartsAssemblyInfo.cache
+D:\PROJECTS\MADA\ERP\MADA.ERP.IdentityServer\IdentityServer\obj\Debug\netcoreapp3.1\IdentityServer.AssemblyInfoInputs.cache
+D:\PROJECTS\MADA\ERP\MADA.ERP.IdentityServer\IdentityServer\obj\Debug\netcoreapp3.1\IdentityServer.AssemblyInfo.cs

@@ -1,0 +1,4 @@
+D:\PROJECTS\MADA\ERP\MADA.ERP.IdentityServer\IdentityServer\obj\Debug\netcoreapp3.0\IdentityServer.csprojAssemblyReference.cache
+D:\PROJECTS\MADA\ERP\MADA.ERP.IdentityServer\IdentityServer\obj\Debug\netcoreapp3.0\IdentityServer.MvcApplicationPartsAssemblyInfo.cache
+D:\PROJECTS\MADA\ERP\MADA.ERP.IdentityServer\IdentityServer\obj\Debug\netcoreapp3.0\IdentityServer.AssemblyInfoInputs.cache
+D:\PROJECTS\MADA\ERP\MADA.ERP.IdentityServer\IdentityServer\obj\Debug\netcoreapp3.0\IdentityServer.AssemblyInfo.cs
